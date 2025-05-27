@@ -90,7 +90,6 @@ return array(
     'Laravel\\Pail\\' => array($vendorDir . '/laravel/pail/src'),
     'Kirschbaum\\PowerJoins\\' => array($vendorDir . '/kirschbaum-development/eloquent-power-joins/src'),
     'Jean85\\' => array($vendorDir . '/jean85/pretty-package-versions/src'),
-    'Inertia\\' => array($vendorDir . '/inertiajs/inertia-laravel/src'),
     'Illuminate\\Support\\' => array($vendorDir . '/laravel/framework/src/Illuminate/Macroable', $vendorDir . '/laravel/framework/src/Illuminate/Collections', $vendorDir . '/laravel/framework/src/Illuminate/Conditionable'),
     'Illuminate\\' => array($vendorDir . '/laravel/framework/src/Illuminate'),
     'GuzzleHttp\\UriTemplate\\' => array($vendorDir . '/guzzlehttp/uri-template/src'),
